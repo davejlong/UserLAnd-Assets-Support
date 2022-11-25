@@ -1,0 +1,1 @@
+OpenSCAD is a free software application for creating solid 3D computer-aided design (CAD) objects. It is a script-only based modeller that uses its own description language; parts can be previewed, but cannot be interactively modified by mouse in the 3D view.
